@@ -18,6 +18,7 @@
 - 🧮 Solved **300+ problems** on LeetCode across Arrays, DP, Graphs, Trees, Sliding Window & more
 - ₿ Selected for **Summer of Bitcoin Developer Track** in 2024 & 2025 — advanced to the proposal round both years
 - 🏆 Hackathon winner (with Google) for **AEGIS**, a women's safety web app
+- 🤖 Exploring AI/ML integrations — speech-to-text pipelines and LLM-powered features (Groq Whisper + Llama) in production apps
 - ⚡ Passionate about real-time systems and writing clean, efficient code
 
 ---
@@ -45,12 +46,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+**AI / ML**
+
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=huggingface&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 **Other Tools**
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Numpy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
@@ -115,12 +122,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deveshsingh6986&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsingh6986&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deveshsingh0704&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsingh0704&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsingh6986&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsingh0704&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -129,7 +136,7 @@
 
 <p align="center">
   <a href="mailto:deveshsingh6986@gmail.com">Email</a> ·
-  <a href="https://github.com/deveshsingh6986">GitHub</a> ·
+  <a href="https://github.com/deveshsingh0704">GitHub</a> ·
   <a href="#">LinkedIn</a> ·
   <a href="https://leetcode.com/u/HonouredOneXdeveshSingh0704/">LeetCode</a>
 </p>
